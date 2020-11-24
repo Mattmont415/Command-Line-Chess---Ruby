@@ -1,8 +1,4 @@
-
-
 class Chess
-
-
   def initialize
     #White pieces as instance constants
     @WP = "♙"; @WB = "♗"; @WK = "♘"; @WR = "♖"; @WQ = "♕"; @WKg = "♔"
