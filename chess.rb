@@ -293,16 +293,6 @@ class Chess
 
 
 
-
-
-
-
-
-
-
-
-
-
   #Black's turn
   def black_turn
     #starting coord
