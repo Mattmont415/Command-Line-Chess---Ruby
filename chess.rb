@@ -25,6 +25,7 @@ class Chess
   end
 
 
+  #Initially draws the board
   def draw_board_start
     #Places the pawns
     8.times do |x|
